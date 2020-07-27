@@ -87,5 +87,5 @@ There are much more to improve, here is the list of things to come
 .. _download: https://github.com/serhatbolsu/robotframework-appium-sample/archive/master.zip
 .. _source code: https://github.com/serhatbolsu/robotframework-appium-sample.git
 .. _demoapp: https://github.com/serhatbolsu/robotframework-appium-sample/tree/master/demoapp
-.. _report.html: https://serhatbolsu.github.io/robotframework-appium-sample/report.html
-.. _log.html: https://serhatbolsu.github.io/robotframework-appium-sample/log.html
+.. _report.html: https://serhatbolsu.github.io/robotframework-appium-sample/docs/report.html
+.. _log.html: https://serhatbolsu.github.io/robotframework-appium-sample/docs/log.html
