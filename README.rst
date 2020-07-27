@@ -1,7 +1,22 @@
+============================================================
 Appium Testing Sample with Robot Framework and AppiumLibrary
 ============================================================
 
-.. contents::
+AppiumLibrary_ is an appium testing library for `Robot Framework`_.
+In this sample usage of the library, you can find ios and android test suites
+that are ready to execute. Also you can find how the reports look like.
+
+.. contents:: **Contents:**
+   :depth: 1
+   :local:
+
+Downloading demo package
+------------------------
+
+To get the demo, you can either `download`_ the repository from GitHub or checkout
+the `source code`_ directly.
+
+Reports are available also online in `generated results`_.
 
 Overview
 --------
@@ -70,7 +85,7 @@ There are much more to improve, here is the list of things to come
 .. _AppiumLibrary: https://github.com/serhatbolsu/robotframework-appiumlibrary
 .. _pip: http://pip-installer.org
 .. _download: https://github.com/serhatbolsu/robotframework-appium-sample/archive/master.zip
-.. _source code: https://github.com/robotframework/WebDemo.git
-.. _demoapp: https://github.com/serhatbolsu/robotframework-appium-sample/demoapp
-.. _report.html: https://github.com/serhatbolsu/robotframework-appium-sample/report.html
-.. _log.html: https://github.com/serhatbolsu/robotframework-appium-sample/log.html
+.. _source code: https://github.com/serhatbolsu/robotframework-appium-sample.git
+.. _demoapp: https://github.com/serhatbolsu/robotframework-appium-sample/tree/master/demoapp
+.. _report.html: https://serhatbolsu.github.io/robotframework-appium-sample/report.html
+.. _log.html: https://serhatbolsu.github.io/robotframework-appium-sample/log.html
