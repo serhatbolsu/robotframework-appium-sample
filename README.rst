@@ -81,7 +81,7 @@ There are much more to improve, here is the list of things to come
 
 .. _Robot Framework: http://robotframework.org
 .. _Robot Framework User Guide: http://robotframework.org/robotframework/#user-guide
-.. _Appium Driver Setup Guide: http://appium.io/docs/en/about-appium/getting-started/?lang=en
+.. _Appium Driver Setup Guide: http://appium.io/docs/en/2.0/quickstart/uiauto2-driver/
 .. _AppiumLibrary: https://github.com/serhatbolsu/robotframework-appiumlibrary
 .. _pip: http://pip-installer.org
 .. _download: https://github.com/serhatbolsu/robotframework-appium-sample/archive/master.zip
